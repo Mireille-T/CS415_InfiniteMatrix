@@ -14,13 +14,28 @@
 				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Score.uasset",
 				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/heart_empty.uasset",
 				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/heart_full.uasset",
-				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/SM.uasset",
-				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_HealthPack.uasset",
-				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/MI_HealthPack.uasset",
 				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_HealthPack.uasset",
 				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_HealthPack.uasset",
 				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
-				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Crosshair.uasset"
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Crosshair.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/green_crosshair.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Projectile.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Projectile.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_Skull.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/MI_Skull_Black.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/MI_Skull_White.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Skull_White.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Skull_Black.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Skull.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Material.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_Projectile.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/MI_Material.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/MI_Projectile.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/SM.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_HealthPack.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/MI_HealthPack.uasset"
 			]
 		}
 	]
